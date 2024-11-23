@@ -1,5 +1,8 @@
 <h1>Spotify Clone API</h1>
-*This project is specified for learning*
+
+
+
+<h3>This project is specified for learning</h3>
 
 Implemented a spotify clone using the latest updated Spotify API, and ReactJs.
 

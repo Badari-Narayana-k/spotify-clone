@@ -10,3 +10,14 @@ In this project, I only implemented the basic functionalities of search song, ge
 
 
 According to the Spotify API restrictions, currently the song play is set to only 30 seconds, and only plays the song preview.
+
+The Recent version of the project specifies the changes in the discover weekly page and the search feature. Using the default Search API feature from the Spotify developers guide implemented the feature of retrieving the songs effectively, Improved the playlist vsibility feature to retrieve all available playlists that the user created.
+
+
+Goals / future enhancements:
+
+Improving the search Quality and adding the feature to retrieve playlists
+Improving the Playllist shuffle experience
+Adding song radio option
+Creating a Play Queue
+Maintaining the record of most playled or most chosen songs by user for faster retrieval and efficent access
